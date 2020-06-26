@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/
+    - export DEPLOYPATH=/home/greattim/public_html/
     - /bin/cp -R img $DEPLOYPATH
     - /bin/cp -R imgs $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
