@@ -15,9 +15,9 @@
     <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
     <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-
+    <link rel="stylesheet" href="css/rss.css">
     <link rel="stylesheet" href="css/style.css">
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> -->
 </head>
 
 <body>
@@ -75,43 +75,17 @@
             <div class="row">
                 <div class="col-md-6 element-animate fadeInUp element-animated">
                     <h2 style="color: #1d8cfa;">World Health News </h3>
-                        <div id="widgetmain"
-                            style="text-align:left;overflow-y:auto;overflow-x:hidden;width:500px;background-color:#F8F9FA; border:0px solid #F8F9FA;">
-                            <div id="rsswidget" style="height:600px;"><iframe
-                                    src="http://us1.rssfeedwidget.com/getrss.php?time=1593097632107&amp;x=https%3A%2F%2Fwww.who.int%2Ffeeds%2Fentity%2Fhac%2Fen%2Frss.xml&amp;w=500&amp;h=500&amp;bc=F8F9FA&amp;bw=0&amp;bgc=F8F9FA&amp;m=5&amp;it=false&amp;t=(default)&amp;tc=333333&amp;ts=15&amp;tb=transparent&amp;il=true&amp;lc=000000&amp;ls=23&amp;lb=false&amp;id=true&amp;dc=868E96&amp;ds=18&amp;idt=true&amp;dtc=868E96&amp;dts=12"
-                                    border="0" hspace="0" vspace="0" frameborder="no" marginwidth="0" marginheight="0"
-                                    style="border:0; padding:0; margin:0; width:500px; height:500px;"
-                                    id="rssOutput">Reading RSS Feed ...</iframe></div>
-                        </div>
+                        <div class="widget">
+                            <script src="//rss.bloople.net/?url=https%3A%2F%2Fwww.who.int%2Frss-feeds%2Fnews-english.xml&limit=5&showtitle=false&type=js">
+                            </script>
+                    </div>
                 </div>
                 <div class="col-md-6 element-animate fadeInUp element-animated">
                     <h2 style="color: #1d8cfa;">Recent Product Update </h3>
-                        <div id="widgetmain"
-                            style="text-align:left;overflow-y:auto;overflow-x:hidden;width:500px;background-color:#F8F9FA; border:0px solid #F8F9FA;">
-                            <div id="rsswidget" style="height:500px;"><iframe
-                                    src="http://us1.rssfeedwidget.com/getrss.php?time=1593098707981&amp;x=https%3A%2F%2Fwww.who.int%2Ffeeds%2Fentity%2Fmedicines%2Fpublications%2Fdrugalerts%2Fen%2Frss.xml&amp;w=500&amp;h=500&amp;bc=F8F9FA&amp;bw=0&amp;bgc=F8F9FA&amp;m=5&amp;it=false&amp;t=(default)&amp;tc=333333&amp;ts=15&amp;tb=transparent&amp;il=true&amp;lc=000000&amp;ls=23&amp;lb=false&amp;id=true&amp;dc=868E96&amp;ds=18&amp;idt=true&amp;dtc=868E96&amp;dts=12"
-                                    border="0" hspace="0" vspace="0" frameborder="no" marginwidth="0" marginheight="0"
-                                    style="border:0; padding:0; margin:0; width:500px; height:500px;"
-                                    id="rssOutput">Reading RSS Feed ...</iframe></div>
-                        </div>
-                </div>
-
-                <!-- <div class="row element-animate fadeInUp element-animated">
-                <div class="col-md-5">
-                    <nav aria-label="Page navigation example">
-                        <ul class="pagination">
-                            <li class="page-item"><a class="page-link" href="news.html#">Previous</a></li>
-                            <li class="page-item active"><a class="page-link" href="news.html#">1</a></li>
-                            <li class="page-item"><a class="page-link" href="news.html#">2</a></li>
-                            <li class="page-item"><a class="page-link" href="news.html#">3</a></li>
-                            <li class="page-item"><a class="page-link" href="news.html#">4</a></li>
-                            <li class="page-item"><a class="page-link" href="news.html#">5</a></li>
-                            <li class="page-item"><a class="page-link" href="news.html#">Next</a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div> -->
-            </div>
+                        <div class="widget">
+                            <script src="//rss.bloople.net/?url=https%3A%2F%2Fwww.who.int%2Ffeeds%2Fentity%2Fmedicines%2Fpublications%2Fdrugalerts%2Fen%2Frss.xml&limit=5&showtitle=false&showempty=true&type=js">
+                            </script>
+                     </div>
     </section>
     <!-- remove ready to visit section -->
 
