@@ -1,0 +1,17 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/greattim/public_html/
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R imgs $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R fonts $DEPLOYPATH
+    - /bin/cp about.html $DEPLOYPATH
+    - /bin/cp contact.html $DEPLOYPATH
+    - /bin/cp distributors.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp news.html $DEPLOYPATH
+    - /bin/cp products.html $DEPLOYPATH
+    - /bin/cp products?1.html $DEPLOYPATH
+    - /bin/cp products?2.html $DEPLOYPATH

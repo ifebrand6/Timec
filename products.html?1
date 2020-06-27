@@ -1,0 +1,382 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <title>Timec Phamacetical</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300, 400, 700" rel="stylesheet">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="css/jquery.timepicker.css">
+        <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+        <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+        <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+        <header role="banner">
+                <!-- remove header top bar-->
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                        <div class="container">
+                                <a class="navbar-brand" href="index.html">Great Timec <span>Pharmaceuticals</span> </a>
+                                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                        data-target="#navbarsExample05" aria-controls="navbarsExample05"
+                                        aria-expanded="false" aria-label="Toggle navigation">
+                                        <span class="navbar-toggler-icon"></span>
+                                </button>
+                                <div class="collapse navbar-collapse" id="navbarsExample05">
+                                        <ul class="navbar-nav ml-auto">
+                                                <li class="nav-item">
+                                                        <a class="nav-link" href="index.html">Home</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                        <a class="nav-link" href="about.html">About us</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                        <a class="nav-link active" href="products.html">Our Products</a>
+                                                </li>
+                                                <!-- <li class="nav-item">
+                                                        <a class="nav-link" href="distributors.html">Distributors</a>
+                                                </li>
+                                                <li class="nav-item"> -->
+                                                <li class="nav-item">
+                                                        <a class="nav-link" href="news.html">News</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                        <a class="nav-link" href="contact.html">Contact</a>
+                                                </li>
+                                        </ul>
+                                </div>
+                        </div>
+                </nav>
+        </header>
+
+        <section class="home-slider inner-page owl-carousel">
+                <div class="slider-item" style="background-image: url('img/slider-2.jpg');">
+                        <div class="container">
+                                <div class="row slider-text align-items-center">
+                                        <div class="col-md-7 col-sm-12 element-animate">
+                                                <h1>OUR PRODUCTS</h1>
+                                                <p>Our range of pharmaceutical products include critical care, super
+                                                        specialty products covering the categories of Anti-Malarial,
+                                                        Anti-Biotic, Anti-Fungal, Anti-Emetic, Steroid, NSAID drugs,
+                                                        Anti-Spasmodic, Anti-Hypertensive, Worm Expellant,
+                                                        Anti-Hastimine and Anti-Psychotic drugs.</p>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </section>
+
+        <section class="section bg-light">
+                <p class="" align="center"> Below is a partial list of the items and supplies we carry in our pharmacy.
+                        You are encourage to call us at 678-489-2069 to inquire about supplies that you might need. </p>
+                <div class="container"></div>
+                <div class="row">
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Mefanol-20.jpg" alt="Mefanol 20" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Mefanol 20</h3>
+                                                <p>Generic Name: Mefanol, VA CLASSIFICATION
+                                                        Primary: AU305</p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.drugs.com/mmx/benzhexol.html"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Nystatin.jpg" alt="Nystatin" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Nystatin</h3>
+                                                <p>Generic Name: Nystatin, This medication is used to treat fungal
+                                                        infections in t...
+
+
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.webmd.com/drugs/2/drug-8893-8052/nystatin-oral/nystatin-tablet-oral/details#:~:text=This%20medication%20is%20used%20to,fungal%20infections%20of%20the%20blood"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Ometi-20.jpg" alt="Ometi 20" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Ometi 20 </h3>
+                                                <p>Brand Name: Ometi-20, Ometi Capsule is used for the short-term
+                                                        treatment of ulcer...
+
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.tabletwise.com/nigeria/ometi-capsule"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/ORS.jpg" alt="Oral Rehydration salt " class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">ORS</h3>
+                                                <p>ORAL REHYDRATION SALTS, Prevention and treatment of dehydration
+                                                        from...
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://medicalguidelines.msf.org/viewport/EssDr/english/oral-rehydration-salts-ors-16684387.html"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="row mb-5">
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Penicilin-V.jpg" alt="Penicilin V" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Penicilin V</h3>
+                                                <p>Generic Name: Penicillin V, Penicillin V oral tablet is used to treat
+                                                        certain infection...
+
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.healthline.com/health/penicillin-v-oral-tablet"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Pheycarp.jpg" alt="Pheycarp" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Phenycap</h3>
+                                                <p>Generic Name: Phenytoin Sodium Extended, Phenytoin is used to prevent
+                                                        and control...
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.webmd.com/drugs/2/drug-10415/phenytoin-sodium-extended-oral/details"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Pyranzinamide.jpg" alt="Pyranzinamide" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Pyrazinamide</h3>
+                                                <p>Generic Name: Pyrazinamide, Pyrazinamide is used with other
+                                                        medications to treat tuberculo...
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.webmd.com/drugs/2/drug-7398/pyrazinamide-oral/details&quot;"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-3 element-animate fadeInUp element-animated">
+                                <div class="media d-block media-custom text-center">
+                                        <img src="imgs/Quinin.jpg" alt="Quinin" class="img-fluid">
+                                        <div class="media-body">
+                                                <h3 class="mt-0 text-black">Quinine</h3>
+                                                <p>Generic Name: quinine, Quinine is used to treat uncomplicated
+                                                        malaria, a disea...
+
+                                                </p>
+                                                <p>
+                                                        <a href="contact.html#" class="p-2"><span
+                                                                        class="fa fa-paper-plane"></span></a>
+
+                                                        <a href="https://www.drugs.com/mtm/quinine.html"
+                                                                class="p-2"><span class="fa fa-search"></span></a>
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="row element-animate fadeInUp element-animated">
+                        <div class="col-md-5">
+                                <nav aria-label="Page navigation example">
+                                        <ul class="pagination">
+                                                <!-- <li class="page-item"><a class="page-link" href="products.html#">Previous</a></li> -->
+                                                <li class="page-item"><a class="page-link" href="products.html#">1</a>
+                                                </li>
+                                                <li class="page-item active"><a class="page-link "
+                                                                href="products?1.html">2</a></li>
+                                                <li class="page-item"><a class="page-link" href="products?2.html">3</a>
+                                                </li>
+                                                <!-- <li class="page-item"><a class="page-link" href="products.html#">4</a></li> -->
+                                                <!-- <li class="page-item"><a class="page-link" href="products.html#">5</a></li>
+<li class="page-item"><a class="page-link" href="products.html#">Next</a></li> -->
+                                        </ul>
+                                </nav>
+                        </div>
+                </div>
+
+        </section>
+        <!-- remove ready to visit section -->
+
+        <footer class="site-footer" role="contentinfo">
+                <div class="container">
+                        <div class="row mb-5 element-animate fadeInUp element-animated">
+                                <div class="col-md-3 mb-5">
+                                        <h3>Products</h3>
+                                        <ul class="footer-link list-unstyled">
+                                                <li><a href="products.html#">NSAID</a></li>
+                                                <li><a href="products.html?1#">ANALGESIC</a></li>
+                                                <li><a href="products?2.html#">ANTIBIOTIC</a></li>
+                                                <li><a href="products.html#">ANITDIREUTIC</a></li>
+                                                <li><a href="products?1.html#">PYREUTIC</a></li>
+                                        </ul>
+                                </div>
+                                <div class="col-md-3 mb-5">
+                                        <h3>Latest News</h3>
+                                      <ul class="footer-link list-unstyled">
+                        <li><a href='news.html'>News &amp; Press Releases</a></li>
+                        <li><a href='news.html'>Health Care Products News</a></li>
+                        <li><a href='news.html'>Covid 19</a></li>
+                    </ul>
+                                </div>
+                                <div class="col-md-3 mb-5">
+                                        <h3>About</h3>
+                                        <ul class="footer-link list-unstyled">
+                                                <li><a href="about.html#">About The Us</a></li>
+                                                <li><a href="about.html#">Testimonials</a></li>
+
+                                                <!-- <li><a href="distributors.html#">Distributors</a></li> -->
+                                                <li><a href="contact.html#">Feedback</a></li>
+                                        </ul>
+                                </div>
+                                <div class="col-md-3 mb-5">
+                                        <h3>Location &amp; Contact</h3>
+                                        <p class="mb-5">PLOT NO 19B NIGER BRIDGE HOUSING ESTATE, FEGGE ONITSHA, ANAMBRA
+                                                STATE NIGERIA. WEST AFRICA.</p>
+                                        <h4 class="text-uppercase mb-3 h6 text-white">Email</h4>
+                                        <p class="mb-5"><a href="mailto:info@timec_pharm.com">info@timec.com</a></p>
+                                        <h4 class="text-uppercase mb-3 h6 text-white">Phone</h4>
+                                        <p>+1 24 435 3533</p>
+                                </div>
+                        </div>
+                        <div class="row pt-md-3 element-animate fadeInUp element-animated">
+                                <div class="col-md-12">
+                                        <hr class="border-t">
+                                </div>
+                                <div class="col-md-6 col-sm-12 copyright">
+                    <p>© 2020 Great Timec Pharmaceuticals Ltd. Develop with <span class="fa fa-heart" style="color: red;"></span> by <a
+                            href="https://www.gitshowcase.com/innarticles.com/"> OnceNout</a>
+                    </p>
+                </div>
+                                <div class="col-md-6 col-sm-12 text-md-right text-sm-left">
+                                        <a href="contact.html#" class="p-2"><span class="fa fa-facebook"></span></a>
+                                        <a href="contact.html#" class="p-2"><span class="fa fa-twitter"></span></a>
+                                        <a href="contact.html#" class="p-2"><span class="fa fa-instagram"></span></a>
+                                </div>
+                        </div>
+                </div>
+        </footer>
+
+
+        <div class="modal fade" id="modalAppointment" tabindex="-1" role="dialog"
+                aria-labelledby="modalAppointmentLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                                <div class="modal-header">
+                                        <h5 class="modal-title" id="modalAppointmentLabel">Appointment</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                        </button>
+                                </div>
+                                <div class="modal-body">
+                                        <form action="products.html#">
+                                                <div class="form-group">
+                                                        <label for="appointment_name" class="text-black">Full
+                                                                Name</label>
+                                                        <input type="text" class="form-control" id="appointment_name">
+                                                </div>
+                                                <div class="form-group">
+                                                        <label for="appointment_email" class="text-black">Email</label>
+                                                        <input type="text" class="form-control" id="appointment_email">
+                                                </div>
+                                                <div class="row">
+                                                        <div class="col-md-6">
+                                                                <div class="form-group">
+                                                                        <label for="appointment_date"
+                                                                                class="text-black">Date</label>
+                                                                        <input type="text" class="form-control"
+                                                                                id="appointment_date">
+                                                                </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                                <div class="form-group">
+                                                                        <label for="appointment_time"
+                                                                                class="text-black">Time</label>
+                                                                        <input type="text" class="form-control"
+                                                                                id="appointment_time">
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="form-group">
+                                                        <label for="appointment_message"
+                                                                class="text-black">Message</label>
+                                                        <textarea name="" id="appointment_message" class="form-control"
+                                                                cols="30" rows="10"></textarea>
+                                                </div>
+                                                <div class="form-group">
+                                                        <input type="submit" value="Send Message"
+                                                                class="btn btn-primary">
+                                                </div>
+                                        </form>
+                                </div>
+                        </div>
+                </div>
+        </div>
+        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+        </script>
+        <script src="js/jquery-3.2.1.min.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/popper.min.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/bootstrap.min.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/owl.carousel.min.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/bootstrap-datepicker.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/jquery.timepicker.min.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/jquery.waypoints.min.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="js/main.js" type="c448a37ceac272956ca792ea-text/javascript"></script>
+        <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
+                data-cf-settings="c448a37ceac272956ca792ea-|49" defer=""></script>
+</body>
+
+</html>
