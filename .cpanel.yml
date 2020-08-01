@@ -13,5 +13,5 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp news.html $DEPLOYPATH
     - /bin/cp products.html $DEPLOYPATH
-    - /bin/cp products?1.html $DEPLOYPATH
-    - /bin/cp products?2.html $DEPLOYPATH
+    - /bin/cp product_page_1.html $DEPLOYPATH
+    - /bin/cp product_page_2.html $DEPLOYPATH
